@@ -30,5 +30,6 @@ aconfig_value_set {
         "aconfig-values-ap1a-com.android.server.telecom.flags-all",
         "aconfig-values-ap1a-com.android.settings.flags-all",
         "aconfig-values-ap1a-com.android.systemui.flags-all",
+        "aconfig-values-ap1a-com.android.settingslib.media.flags-all",
     ],
 }
